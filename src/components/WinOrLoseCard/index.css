@@ -1,0 +1,39 @@
+/* Write your code here. */
+.game-result-container {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #ffffff33;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.game-result {
+  display: flex;
+  flex-direction: column;
+}
+
+.game-status {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.score-status {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: Roboto;
+  margin-bottom: 0px;
+}
+
+.score {
+  color: #6a59ff;
+  font-size: 20px;
+  margin: 5px;
+}
+
+.play-again-btn {
+  background-color: #ffce27;
+  border: none;
+  padding: 5px;
+}

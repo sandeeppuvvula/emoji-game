@@ -1,0 +1,26 @@
+/* Write your code here. */
+.navbar-background {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-around;
+  line-height: 1.6;
+}
+
+.navbar {
+  display: flex;
+  margin: 0px;
+}
+
+.navbar-heading {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.score-card {
+  display: flex;
+  color: #ffffff;
+}
+
+p {
+  margin-right: 20px;
+}

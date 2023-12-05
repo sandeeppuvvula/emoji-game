@@ -1,0 +1,16 @@
+/* Write your code here. */
+li {
+  width: 20%;
+  margin-bottom: 50px;
+}
+
+.button {
+  background-color: #ffffff33;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.image {
+  padding: 10px;
+}
