@@ -78,7 +78,7 @@ class EmojiGame extends Component {
       <ul>
         {shuffledEmojisList.map(eachEmoji => (
           <EmojiCard
-            key={eachEmoji.id}
+            uniqueKey={eachEmoji.id}
             emoji={eachEmoji}
             clickEmoji={this.clickEmoji}
           />
